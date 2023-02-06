@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1_Title/Start.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1_Title/MusicOnPls.unity
+    guid: 36dd2d41cf984344a98fbd08215370a2
+  - enabled: 1
+    path: Assets/Scenes/2_Room/Room.unity
+    guid: 02edea3b03ef11545bdfd56ad206dc8a
+  - enabled: 1
+    path: Assets/Scenes/Chapters/ch1 (dream)/3_ch1.unity
+    guid: 32807575aaa0e6d4d88ca6fe4e2d3f84
+  - enabled: 1
+    path: Assets/Scenes/Chapters/ch2 (7th grade)/4_ch2.unity
+    guid: ffcd59d90ca194c4882b76541d49a2ed
+  - enabled: 1
+    path: Assets/Scenes/Chapters/ch3 (memories)/5_ch3.unity
+    guid: 121199117218b6841a39056398f39b57
+  - enabled: 1
+    path: Assets/Scenes/Chapters/ch4 (uimy)/6_ch4.unity
+    guid: 6fb4461bf7b9e8940891b3a0d461c276
+  - enabled: 1
+    path: Assets/Scenes/Chapters/ch5 (todoroki)/7_ch5.unity
+    guid: 0a576abee89672d4696678a688885b3f
+  - enabled: 1
+    path: Assets/Scenes/Chapters/ch6 (library)/8_ch6.unity
+    guid: 4267605e37f84e046af14b16fb419024
+  - enabled: 0
+    path: Assets/Scenes/Memories/7thGrade/7th Grade.unity
+    guid: d45b716e6d583f245836d3894a4d05d2
+  - enabled: 0
+    path: Assets/Scenes/Memories/UIMY/UIMY.unity
+    guid: e11f5d4a8eccdb04cba612323a50bcb3
+  - enabled: 1
+    path: Assets/Scenes/Chapters/ch7 (christmas)/9_ch7.unity
+    guid: f9394309042b2b540b5c211805315bb3
+  - enabled: 1
+    path: Assets/Scenes/Chapters/ch8 (last message)/10_ch8.unity
+    guid: a5fee321b47ae2c4fa5b165f835d4b67
+  - enabled: 1
+    path: Assets/Scenes/Endings/stay/end_stay.unity
+    guid: c0b84d5eb7f897e448d3eeb016e562b9
+  - enabled: 1
+    path: Assets/Scenes/Endings/almost/end_almost.unity
+    guid: a8aff770c43921f408de879e7ae187ed
+  - enabled: 1
+    path: Assets/Scenes/Endings/let go/end_goodbye.unity
+    guid: 0dd03f5a7ee33a447a99831a723d05a6
+  - enabled: 1
+    path: Assets/Scenes/Endings/final ends/Credits.unity
+    guid: d956b00b2432ba2469c0c6b314c87f92
+  - enabled: 1
+    path: Assets/Scenes/Endings/final ends/epilogue.unity
+    guid: 8077208579402954ba67eb3c31472a34
+  m_configObjects: {}
